@@ -1,0 +1,4 @@
+Les liaisons: 
+0 9
+1 2
+2 -1
